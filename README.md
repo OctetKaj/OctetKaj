@@ -5,16 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=Cloud%20Engineer%20in%20Progress%20%7C%20Linux%20%E2%80%A2%20AWS%20%E2%80%A2%20Automation;Building%20systems%2C%20automating%20infrastructure%2C%20and%20breaking%20things%20to%20understand%20them." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=Cloud%20Engineer%20in%20Progress%20%7C%20Linux%20%E2%80%A2%20Networking%20%E2%80%A2%20AWS%20%E2%80%A2%20Security;Building%20secure%20systems%2C%20automating%20infrastructure%2C%20and%20learning%20by%20breaking%20and%20fixing%20things." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Focused on Cloud Engineering, Linux, and Infrastructure  
-🐧 Building strong foundations in Linux, networking, and system administration  
-⚙️ Learning AWS, Docker, Terraform, and automation  
-🧪 Learning by building labs, troubleshooting systems, and documenting what I learn  
-🚀 Long-term goal: Cloud Engineering → Cloud Security
+Linux &amp; Operating Systems — system administration, troubleshooting, processes, permissions, and services  
+🌐 Networking — TCP/IP, DNS, HTTP/HTTPS, routing, subnetting, and network troubleshooting  
+🛡️ Web Security — web application security, enumeration, Burp Suite, OWASP vulnerabilities, and exploitation fundamentals  
+🔐 Network Security — network enumeration, service discovery, and common network attack techniques  
+☁️ Cloud Engineering — currently building skills in AWS, Docker, Terraform, and automation  
+🧪 Hands-on learner — labs, CTFs, troubleshooting, and building real projects
 
 🔭 &nbsp;I'm currently working on **Self Training And Improving My Skills**  
 🌱 &nbsp;I'm currently learning **Cloud Engineering**
@@ -30,6 +31,7 @@ Focused on Cloud Engineering, Linux, and Infrastructure
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
